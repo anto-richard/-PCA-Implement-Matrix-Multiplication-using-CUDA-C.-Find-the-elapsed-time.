@@ -32,6 +32,9 @@ Save the program and execute it .
 
 ```CUDA
 
+### Developed by: Anto Richard. S
+### Register No: 212221240005
+
 #include <stdio.h>
 #include <sys/time.h>
 
